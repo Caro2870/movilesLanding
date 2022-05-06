@@ -3,11 +3,11 @@
 {
     font-size: 1.4em;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:#1955AE;
+    color:#7E57C2;
 }
 .navbar a
 {
-    color: #1955AE;
+    color: #7E57C2;
 }
 .navbar-brand
 {
@@ -55,7 +55,7 @@
 .main-section
 {
     height: 800px;
-    background-image: url("images/main-section.jpeg");
+    background-image: url("images/main-section.jpg");
     background-position: center;
     background-size:cover;
     display: flex;
@@ -77,8 +77,8 @@
 {
     margin-top: 20px;
     border: 0;
-    background: #1955AE;
-    border: 2px solid #1955AE;
+    background: #7E57C2;
+    border: 2px solid #7E57C2;
     color: white;
     border-radius: 5px;
     padding: 10px 30px;
@@ -127,7 +127,7 @@
 {
     font-size: 3.5em;
     text-align: center;
-    color: #1955AE;
+    color: #7E57C2;
     padding-top: 50px;
     padding-bottom: 30px;
 }
@@ -175,7 +175,7 @@
     text-align: center;
     font-size: 3.5em;
     margin: 80px 0 50px;
-    color: #1955AE;
+    color: #7E57C2;
 }
 .services .row
 {
@@ -192,7 +192,7 @@
 {
     width: 110px;
     height: 110px;
-    border: 2px solid #1955AE;
+    border: 2px solid #7E57C2;
     padding:20px;
     border-radius: 50%;
 }
@@ -205,7 +205,7 @@
 .services-card h2
 {
     margin: 20px 0;
-    color: #1955AE;
+    color: #7E57C2;
 }
 .services-card p
 {
@@ -227,7 +227,7 @@
     text-align: center;
     font-size: 3.5em;
     margin: 80px 0 50px;
-    color: #1955AE;
+    color: #7E57C2;
 }
 .gallery .row
 {
@@ -244,9 +244,9 @@
 {
     width: 500px;
     height: 500px;
-    -webkit-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
+    -moz-box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
+    box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
 }
 @media screen and (max-width:1200px)
 {
@@ -291,8 +291,8 @@
 /*-------------------------PLANS*/
 .plans
 {
-    background: rgb(124,159,209);
-    background: linear-gradient(90deg, rgba(124,159,209,1) 0%, rgba(25,85,174,1) 100%);
+    background: rgba(166, 146, 202, 1);
+    background: linear-gradient(90deg, rgba(166, 146, 202, 1) 0%, rgba(126, 87, 194, 1) 100%);
     padding:80px 0;
 }
 .plans h1
@@ -310,9 +310,9 @@
 {
     background: white;
     border-radius: 20px;
-    -webkit-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 0px 17px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
+    -moz-box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
+    box-shadow: 0px 0px 17px 0px rgba(121, 116, 126, 1);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -324,7 +324,7 @@
 {
     width: 70%;
     text-align: left;
-    color: #1955AE;
+    color: #7E57C2;
 }
 
 .plans-card-title h2
@@ -355,11 +355,11 @@
 .plans-card button
 {
     width: 70%;
-    border: 1px solid #1955AE;
+    border: 1px solid #7E57C2;
     border-radius: 5px;
     padding: 8px 5px;
     background: none;
-    color: #1955AE;
+    color: #7E57C2;
     font-size: 1.5em;
 }
 @media screen and (max-width:1000px)
@@ -407,14 +407,14 @@
 /*-------------------------VIDEOS*/
 .title_video{
     font-size: 2.3em;
-    color: #1955AE;
+    color: #7E57C2;
 }
 /*-------------------------FOOTER*/
 
 .footer
 {
     margin-top: 100px;
-    background: #1955AE;
+    background: #7E57C2;
     color: white;
     padding:20px 0;
 }
